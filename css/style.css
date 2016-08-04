@@ -1,0 +1,32 @@
+.morada{
+	background-color: violet;
+	position:relative;
+}
+.azul{
+	background-color: blue ;
+	position:relative;
+	left:200px;
+	right: 100px;
+}
+.verde{
+	background-color: green ;
+	position:relative;
+}
+.rojo{
+	background-color: red ;
+	position:relative;
+	left:200px;
+	right: 100px;
+}
+.caja{
+	width: 200px;
+	height: 200px;
+}
+
+/*#relative{
+	position:relative;
+    left:200 px;
+    top: 200px;
+}*/
+
+
